@@ -19,7 +19,7 @@ namespace ThreeAgentsSystem.Agents
                     return new AgentB();
                 case "AGENTE_C":
                     return new AgentC();
-                    default: return null;
+                    default: return new AgentA();
             }
         }
     }
