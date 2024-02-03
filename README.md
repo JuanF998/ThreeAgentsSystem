@@ -5,7 +5,7 @@ Apliación por consola de .NET, se implementan las funcionalidades de los tres a
 Para probar la solución se deben seguir los siguientes pasos:
 
 1. Clonar el repositorio.
-2. Abrir el proyecto en el IDE de su preferencia y ejecutar la solución.
+2. Abrir el proyecto en el IDE de su preferencia.
 4. En la clase Program se debe modificar la lista de número reales de su preferencia y el valor de n para la funcionalidad de getStaircase
 3. Ejecutar la solución.
 4. Seccionar un agente.
